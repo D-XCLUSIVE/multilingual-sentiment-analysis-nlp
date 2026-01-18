@@ -130,16 +130,9 @@ These results demonstrate that **model complexity alone does not resolve sentime
 - Machine translation may distort idiomatic or subtle sentiment cues
 - Neutral sentiment is underrepresented, limiting recall across all models
 
-Future work could explore pretrained language models (e.g. BERT) and class-balancing strategies.
 
----
-
-## Files
-- `/notebook/sentiment_analysis_nlp.ipynb` – Complete NLP pipeline and model evaluation
-- `/report/CO4193_report_21357753.pdf` – Final marked submission
-- `/data/README.md` – Dataset description and governance
 
 ---
 
 ## Academic Context
-This project was completed as part of postgraduate study in Artificial Intelligence and Data Analytics. The repository presents the final marked submission in a portfolio-ready format, highlighting practical NLP engineering decisions and rigorous model evaluation.
+This project was completed as part of postgraduate study in Artificial Intelligence and Data Analytics. 
